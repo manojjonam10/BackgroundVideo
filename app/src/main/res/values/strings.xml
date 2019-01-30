@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BackgroundVideo</string>
+    <string name="record">Record</string>
+    <string name="initialize">Initializing</string>
+    <string name="permission_grant">permission granted</string>
+    <string name="start_rec">Started Recording</string>
+    <string name="stop_rec">Recording stopped. File saved in external directory</string>
+    <string name="permission_req">requesting permission</string>
+    <string name="permission_den">permission denied</string>
+    <string name="camera_ready">Camera Ready for Recording</string>
+    <string name="config_fail">Configuration fail"</string>
+    <string name="camera_unconnect">Unable to connect to camera</string>
+    <string name="camera_error">Error when opening camera</string>
+    <string name="no_external">No External storage detected. Stopping operations</string>
+    <string name="error">Error</string>
+</resources>
